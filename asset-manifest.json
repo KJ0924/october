@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/october/static/css/main.953fcf59.css",
+    "main.js": "/october/static/js/main.bf26300d.js",
+    "index.html": "/october/index.html",
+    "main.953fcf59.css.map": "/october/static/css/main.953fcf59.css.map",
+    "main.bf26300d.js.map": "/october/static/js/main.bf26300d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.953fcf59.css",
+    "static/js/main.bf26300d.js"
+  ]
+}
