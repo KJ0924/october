@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/october/static/css/main.9aad7467.css",
-    "main.js": "/october/static/js/main.3e7bb6fa.js",
+    "main.js": "/october/static/js/main.ae8bba62.js",
     "index.html": "/october/index.html",
     "main.9aad7467.css.map": "/october/static/css/main.9aad7467.css.map",
-    "main.3e7bb6fa.js.map": "/october/static/js/main.3e7bb6fa.js.map"
+    "main.ae8bba62.js.map": "/october/static/js/main.ae8bba62.js.map"
   },
   "entrypoints": [
     "static/css/main.9aad7467.css",
-    "static/js/main.3e7bb6fa.js"
+    "static/js/main.ae8bba62.js"
   ]
 }
